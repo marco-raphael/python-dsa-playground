@@ -15,7 +15,7 @@ O foco principal é dominar a lógica de organização e processamento de dados,
 O projeto utiliza uma estrutura modular para facilitar o reuso e a manutenção:
 
 * **`src/algorithms/`**: Implementações de lógica pura.
-    * *Ordenação, Buscas, Recursão, Algoritmos Gulosos.*
+    * *Ordenação, Buscas, Recursão.*
 * **`src/data_structures/`**: Implementações "from scratch" (do zero).
     * *Stacks, Queues, Linked Lists, Trees.*
 * **`tests/`**: Minha rede de segurança.
@@ -37,7 +37,7 @@ O projeto utiliza uma estrutura modular para facilitar o reuso e a manutenção:
 | **Linguagem** | Python 3.12+ 🐍 |
 | **IDE** | PyCharm 💎 |
 | **Testes** | Pytest ✅ |
-| **Foco** | Clean Code, Type Hinting & Big O Analysis 📊 |
+| **Foco** | Clean Code & Big O Analysis 📊 |
 
 ---
 
