@@ -36,11 +36,3 @@ class MyArray:
     def _make_array(self, c):
         """Retorna um novo array bruto (raw) com capacidade c."""
         return (c * ctypes.py_object)()
-
-
-# Exemplo de uso rápido
-if __name__ == "__main__":
-    arr = MyArray()
-    arr.append(10)
-    arr.append(20)
-    print(f"Elemento no índice 1: {arr[1]}")
